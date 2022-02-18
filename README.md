@@ -6,10 +6,10 @@
 ## React
 
 
-## Typescript
+## TypeScript
 
 
-## Javascript
+## JavaScript
 
 
 ## HTML & CSS
