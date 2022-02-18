@@ -6,7 +6,12 @@
 1. [虚拟DOM](https://github.com/machao07/interview-questions/issues/1)
 
 ## 二、React
-1. [React项目添加TS](https://github.com/machao07/interview-questions/issues/2)
+1. [react项目添加TS](https://github.com/machao07/interview-questions/issues/2)
+2. [Ant Design全局改变主题色](https://github.com/machao07/react-admin/issues/1)
+3. [react项目页面跳转/传值](https://github.com/machao07/react-admin/issues/3)
+4. [react项目组件通信](https://github.com/machao07/react-admin/issues/4)
+5. [全局配置汉化antd组件](https://github.com/machao07/react-admin/issues/2)
+6. [AntDesign表单Form实例方法（useForm/ref](https://github.com/machao07/react-admin/issues/5)
 
 ## 三、TypeScript
 
