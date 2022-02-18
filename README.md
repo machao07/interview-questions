@@ -11,6 +11,7 @@
 ## 一、Vue
 1. [虚拟DOM](https://github.com/machao07/interview-questions/issues/1)
 2. [nextTick()原理](https://blog.csdn.net/weixin_43924228/article/details/106548886)
+3. [vue项目添加TS](https://github.com/machao07/interview-questions/issues/7)
 
 ## 二、React
 1. [react项目添加TS](https://github.com/machao07/interview-questions/issues/2)
