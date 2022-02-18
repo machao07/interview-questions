@@ -1,4 +1,4 @@
-# 前端技术栈相关面试知识点（持续更新中ing:running:）
+# 前端技术栈相关面试知识点（持续更新中:running:）
 
 ## 面试题
 - [苏宁易购前端面试经历分享](https://blog.csdn.net/weixin_43924228/article/details/90699272)
