@@ -23,6 +23,7 @@
 
 ## 三、TypeScript
 1. [TypeScript基本语法](https://github.com/machao07/interview-questions/issues/3)
+2. [TypeScript基本类型](https://github.com/machao07/interview-questions/issues/10)
 
 ## 四、JavaScript
 1. [ES7、ES8、ES9、ES10、ES11新特性](https://github.com/machao07/interview-questions/issues/4)
