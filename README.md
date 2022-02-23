@@ -30,6 +30,7 @@
 1. [ES7、ES8、ES9、ES10、ES11新特性](https://github.com/machao07/interview-questions/issues/4)
 2. [this指针面试题](https://github.com/machao07/interview-questions/issues/9)
 3. [forEach面题及this指针](https://github.com/machao07/interview-questions/issues/11)
+4. [数组去重](https://github.com/machao07/interview-questions/issues/13)
 
 ## 五、HTML & CSS
 1. [圣杯布局、双飞翼布局](https://github.com/machao07/interview-questions/issues/6)
