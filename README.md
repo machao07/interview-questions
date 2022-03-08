@@ -38,7 +38,7 @@
 2. [this指针面试题](https://github.com/machao07/interview-questions/issues/9)
 3. [forEach面题及this指针](https://github.com/machao07/interview-questions/issues/11)
 4. [改变this指针](https://github.com/machao07/interview-questions/issues/18)
-5. [数组去重](https://github.com/machao07/interview-questions/issues/13)
+5. [数组去重方法对比](https://github.com/machao07/interview-questions/issues/13)
 
 ## 五、HTML & CSS
 1. [圣杯布局、双飞翼布局](https://github.com/machao07/interview-questions/issues/6)
