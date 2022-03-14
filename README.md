@@ -35,12 +35,13 @@
 
 ## 四、JavaScript
 1. [JS作用域](https://github.com/machao07/interview-questions/issues/20)
-2. [ES7、ES8、ES9、ES10、ES11新特性](https://github.com/machao07/interview-questions/issues/4)
-3. [this指针面试题](https://github.com/machao07/interview-questions/issues/9)
-4. [forEach面题及this指针](https://github.com/machao07/interview-questions/issues/11)
-5. [改变this指针](https://github.com/machao07/interview-questions/issues/18)
-6. [数组去重方法对比](https://github.com/machao07/interview-questions/issues/13)
-7. [函数arguments、rest、箭头函数](https://github.com/machao07/interview-questions/issues/19)
+2. [JS执行流程](https://github.com/machao07/interview-questions/issues/21)
+3. [ES7、ES8、ES9、ES10、ES11新特性](https://github.com/machao07/interview-questions/issues/4)
+4. [this指针面试题](https://github.com/machao07/interview-questions/issues/9)
+5. [forEach面题及this指针](https://github.com/machao07/interview-questions/issues/11)
+6. [改变this指针](https://github.com/machao07/interview-questions/issues/18)
+7. [数组去重方法对比](https://github.com/machao07/interview-questions/issues/13)
+8. [函数arguments、rest、箭头函数](https://github.com/machao07/interview-questions/issues/19)
 
 ## 五、HTML & CSS
 1. [圣杯布局、双飞翼布局](https://github.com/machao07/interview-questions/issues/6)
