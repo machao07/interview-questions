@@ -17,40 +17,40 @@
 
 ## 一、Vue
 1. [虚拟DOM](https://github.com/machao07/interview-questions/issues/1)
-2. [nextTick()原理](https://blog.csdn.net/weixin_43924228/article/details/106548886)
-3. [vue项目添加TS](https://github.com/machao07/interview-questions/issues/7)
+2. [NextTick() 原理](https://blog.csdn.net/weixin_43924228/article/details/106548886)
+3. [Vue项目添加TS](https://github.com/machao07/interview-questions/issues/7)
 
 ## 二、React
-1. [react项目添加TS](https://github.com/machao07/interview-questions/issues/2)
-2. [Ant Design全局改变主题色](https://github.com/machao07/react-admin/issues/1)
-3. [react项目页面跳转/传值](https://github.com/machao07/react-admin/issues/3)
-4. [react项目组件通信](https://github.com/machao07/react-admin/issues/4)
-5. [全局配置汉化antd组件](https://github.com/machao07/react-admin/issues/2)
-6. [AntDesign表单Form实例方法（useForm/ref）](https://github.com/machao07/react-admin/issues/5)
+1. [React 项目添加 TS](https://github.com/machao07/interview-questions/issues/2)
+2. [Ant Design 全局改变主题色](https://github.com/machao07/react-admin/issues/1)
+3. [React 项目页面跳转/传值](https://github.com/machao07/react-admin/issues/3)
+4. [React 项目组件通信](https://github.com/machao07/react-admin/issues/4)
+5. [全局配置汉化 Antd 组件](https://github.com/machao07/react-admin/issues/2)
+6. [AntDesign 表单 Form 实例方法（useForm/ref）](https://github.com/machao07/react-admin/issues/5)
 
 ## 三、TypeScript
 1. [TypeScript基本语法](https://github.com/machao07/interview-questions/issues/3)
 2. [TypeScript基本类型](https://github.com/machao07/interview-questions/issues/10)
-3. [TS中type与interface区别](https://github.com/machao07/interview-questions/issues/12)
+3. [TS 中 type 与 interface 区别](https://github.com/machao07/interview-questions/issues/12)
 
 ## 四、JavaScript
 1. [JS作用域](https://github.com/machao07/interview-questions/issues/20)
 2. [JS执行流程](https://github.com/machao07/interview-questions/issues/21)
 3. [ES7、ES8、ES9、ES10、ES11新特性](https://github.com/machao07/interview-questions/issues/4)
-4. [this指针面试题](https://github.com/machao07/interview-questions/issues/9)
-5. [forEach面题及this指针](https://github.com/machao07/interview-questions/issues/11)
-6. [改变this指针](https://github.com/machao07/interview-questions/issues/18)
+4. [This 指针面试题](https://github.com/machao07/interview-questions/issues/9)
+5. [ForEach 面题及 this 指针](https://github.com/machao07/interview-questions/issues/11)
+6. [改变 this 指针](https://github.com/machao07/interview-questions/issues/18)
 7. [数组去重方法对比](https://github.com/machao07/interview-questions/issues/13)
-8. [函数arguments、rest、箭头函数](https://github.com/machao07/interview-questions/issues/19)
+8. [函数 arguments、rest、箭头函数](https://github.com/machao07/interview-questions/issues/19)
 
 ## 五、HTML & CSS
 1. [圣杯布局、双飞翼布局](https://github.com/machao07/interview-questions/issues/6)
 2. [两栏布局（左侧固定 + 右侧自适应布局）](https://github.com/machao07/interview-questions/issues/17)
-3. [flex属性计算题目](https://github.com/machao07/interview-questions/issues/5)
-4. [script 标签中的defer和async异同点](https://github.com/machao07/interview-questions/issues/8)
-5. [BFC与IFC的产生和解决方法](https://github.com/machao07/interview-questions/issues/14)
+3. [Flex 属性计算题目](https://github.com/machao07/interview-questions/issues/5)
+4. [script 标签中的 defer 和 async 异同点](https://github.com/machao07/interview-questions/issues/8)
+5. [BFC 与 IFC 的产生和解决方法](https://github.com/machao07/interview-questions/issues/14)
 6. [浏览器渲染页面过程](https://github.com/machao07/interview-questions/issues/16)
 
 ## 六、网络协议
-1. [http协议相关面题](https://github.com/machao07/interview-questions/issues/15)
+1. [Http 协议相关面题](https://github.com/machao07/interview-questions/issues/15)
 
