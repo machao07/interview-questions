@@ -19,7 +19,7 @@
 1. [虚拟DOM](https://github.com/machao07/interview-questions/issues/1)
 2. [NextTick() 原理](https://blog.csdn.net/weixin_43924228/article/details/106548886)
 3. [Vue项目添加TS](https://github.com/machao07/interview-questions/issues/7)
-4. [Vue中this.$router.push传参方式](https://github.com/machao07/interview-questions/issues/22)
+4. [Vue中 this.$router.push 传参方式](https://github.com/machao07/interview-questions/issues/22)
 
 ## 二、React
 1. [React 项目添加 TS](https://github.com/machao07/interview-questions/issues/2)
@@ -43,6 +43,7 @@
 6. [改变 this 指针](https://github.com/machao07/interview-questions/issues/18)
 7. [数组去重方法对比](https://github.com/machao07/interview-questions/issues/13)
 8. [函数 arguments、rest、箭头函数](https://github.com/machao07/interview-questions/issues/19)
+9. [JS判断数据类型](https://github.com/machao07/interview-questions/issues/23)
 
 ## 五、HTML & CSS
 1. [圣杯布局、双飞翼布局](https://github.com/machao07/interview-questions/issues/6)
