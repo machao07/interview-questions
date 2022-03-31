@@ -19,6 +19,7 @@
 1. [虚拟DOM](https://github.com/machao07/interview-questions/issues/1)
 2. [NextTick() 原理](https://blog.csdn.net/weixin_43924228/article/details/106548886)
 3. [Vue项目添加TS](https://github.com/machao07/interview-questions/issues/7)
+4. [Vue中this.$router.push传参方式](https://github.com/machao07/interview-questions/issues/22)
 
 ## 二、React
 1. [React 项目添加 TS](https://github.com/machao07/interview-questions/issues/2)
