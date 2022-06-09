@@ -40,7 +40,7 @@
 ## 四、JavaScript
 1. [JS作用域](https://github.com/machao07/interview-questions/issues/20)
 2. [JS执行流程](https://github.com/machao07/interview-questions/issues/21)
-3. [ES7、ES8、ES9、ES10、ES11、ES12、ES13新特性](https://github.com/machao07/interview-questions/issues/4)
+3. [ES7+ 新特性](https://github.com/machao07/interview-questions/issues/4)
 4. [This 指针面试题](https://github.com/machao07/interview-questions/issues/9)
 5. [ForEach 面题及 this 指针](https://github.com/machao07/interview-questions/issues/11)
 6. [改变 this 指针](https://github.com/machao07/interview-questions/issues/18)
