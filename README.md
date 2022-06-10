@@ -37,7 +37,7 @@
 2. [TypeScript基本类型](https://github.com/machao07/interview-questions/issues/10)
 3. [TS 中 type 与 interface 区别](https://github.com/machao07/interview-questions/issues/12)
 
-## 四、JavaScript
+## 四、JavaScript & ECMAScript
 1. [JS作用域](https://github.com/machao07/interview-questions/issues/20)
 2. [JS执行流程](https://github.com/machao07/interview-questions/issues/21)
 3. [ES7+ 新特性](https://github.com/machao07/interview-questions/issues/4)
