@@ -1,4 +1,4 @@
-# 前端技术栈相关面试知识点（持续更新中:running:）
+# 前端技术栈及相关面试知识点（持续更新中:running:）
 
 <!-- ## 相关链接 -->
 [![CSDN博客](https://img.shields.io/badge/CSDN博客-@情非得已小猿猿-orange)](https://blog.csdn.net/weixin_43924228)
