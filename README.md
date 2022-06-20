@@ -33,6 +33,7 @@
 5. [全局配置汉化 Antd 组件](https://github.com/machao07/react-admin/issues/2)
 6. [AntDesign 表单 Form 实例方法（useForm/ref）](https://github.com/machao07/react-admin/issues/5)
 7. [ReactHooks 中 useEffect 使用](https://github.com/machao07/react-admin/issues/6)
+8. [React 路由和菜单的权限控制](https://github.com/machao07/interview-questions/issues/26)
 
 ## 三、TypeScript
 1. [TypeScript基本语法](https://github.com/machao07/interview-questions/issues/3)
