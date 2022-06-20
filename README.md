@@ -22,7 +22,7 @@
 4. [Vue组件通信汇总](https://github.com/machao07/interview-questions/issues/25)
 5. [Vue中 this.$router.push 传参方式](https://github.com/machao07/interview-questions/issues/22)
 6. [vue.config.js 配置与项目优化](https://github.com/machao07/interview-questions/issues/24)
-7. [Vue3 + Vite + Typescript + Element Plus创建项目](https://mp.weixin.qq.com/s/yv6KYcx4PTYgrU6I1Ns52g)
+7. [Vue3 + Vite + Typescript + Element Plus 创建项目](https://mp.weixin.qq.com/s/yv6KYcx4PTYgrU6I1Ns52g)
 
 
 ## 二、React
