@@ -17,12 +17,13 @@
 
 ## 一、Vue
 1. [虚拟DOM](https://github.com/machao07/interview-questions/issues/1)
-2. [NextTick() 原理](https://blog.csdn.net/weixin_43924228/article/details/106548886)
-3. [Vue项目添加TS](https://github.com/machao07/interview-questions/issues/7)
-4. [Vue组件通信汇总](https://github.com/machao07/interview-questions/issues/25)
-5. [Vue中 this.$router.push 传参方式](https://github.com/machao07/interview-questions/issues/22)
-6. [vue.config.js 配置与项目优化](https://github.com/machao07/interview-questions/issues/24)
-7. [Vue3 + Vite + Typescript + Element Plus 创建项目](https://mp.weixin.qq.com/s/yv6KYcx4PTYgrU6I1Ns52g)
+2. [Vue 组件中 data() 为什么必须是函数](https://github.com/machao07/interview-questions/issues/27)
+3. [NextTick() 原理](https://blog.csdn.net/weixin_43924228/article/details/106548886)
+4. [Vue项目添加TS](https://github.com/machao07/interview-questions/issues/7)
+5. [Vue组件通信汇总](https://github.com/machao07/interview-questions/issues/25)
+6. [Vue中 this.$router.push 传参方式](https://github.com/machao07/interview-questions/issues/22)
+7. [vue.config.js 配置与项目优化](https://github.com/machao07/interview-questions/issues/24)
+8. [Vue3 + Vite + Typescript + Element Plus 创建项目](https://mp.weixin.qq.com/s/yv6KYcx4PTYgrU6I1Ns52g)
 
 
 ## 二、React
