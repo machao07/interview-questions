@@ -48,13 +48,14 @@
 ## 四、JavaScript & ECMAScript
 1. [JS作用域](https://github.com/machao07/interview-questions/issues/20)
 2. [JS执行流程](https://github.com/machao07/interview-questions/issues/21)
-3. [ES7+ 新特性](https://github.com/machao07/interview-questions/issues/4)
-4. [This 指针面试题](https://github.com/machao07/interview-questions/issues/9)
-5. [ForEach 面题及 this 指针](https://github.com/machao07/interview-questions/issues/11)
-6. [改变 this 指针](https://github.com/machao07/interview-questions/issues/18)
-7. [数组去重方法对比](https://github.com/machao07/interview-questions/issues/13)
-8. [函数 arguments、rest、箭头函数](https://github.com/machao07/interview-questions/issues/19)
-9. [JS判断数据类型](https://github.com/machao07/interview-questions/issues/23)
+3. [ES6 中的class](https://github.com/machao07/interview-questions/issues/32)
+4. [ES7+ 新特性](https://github.com/machao07/interview-questions/issues/4)
+5. [This 指针面试题](https://github.com/machao07/interview-questions/issues/9)
+6. [ForEach 面题及 this 指针](https://github.com/machao07/interview-questions/issues/11)
+7. [改变 this 指针](https://github.com/machao07/interview-questions/issues/18)
+8. [数组去重方法对比](https://github.com/machao07/interview-questions/issues/13)
+9. [函数 arguments、rest、箭头函数](https://github.com/machao07/interview-questions/issues/19)
+10. [JS判断数据类型](https://github.com/machao07/interview-questions/issues/23)
 
 ## 五、HTML & CSS
 1. [圣杯布局、双飞翼布局](https://github.com/machao07/interview-questions/issues/6)
