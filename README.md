@@ -48,7 +48,7 @@
 ## 四、JavaScript & ECMAScript
 1. [JS作用域](https://github.com/machao07/interview-questions/issues/20)
 2. [JS执行流程](https://github.com/machao07/interview-questions/issues/21)
-3. [ES6 中的class](https://github.com/machao07/interview-questions/issues/32)
+3. [ES6 中的 class](https://github.com/machao07/interview-questions/issues/32)
 4. [ES7+ 新特性](https://github.com/machao07/interview-questions/issues/4)
 5. [This 指针面试题](https://github.com/machao07/interview-questions/issues/9)
 6. [ForEach 面题及 this 指针](https://github.com/machao07/interview-questions/issues/11)
