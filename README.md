@@ -56,7 +56,7 @@
 7. [改变 this 指针](https://github.com/machao07/interview-questions/issues/18)
 8. [数组去重方法对比](https://github.com/machao07/interview-questions/issues/13)
 9. [函数 arguments、rest、箭头函数](https://github.com/machao07/interview-questions/issues/19)
-10. [JS判断数据类型](https://github.com/machao07/interview-questions/issues/23)
+10.[判断数据类型方法总览](https://github.com/machao07/interview-questions/issues/23)
 
 ## 五、HTML & CSS
 1. [圣杯布局、双飞翼布局](https://github.com/machao07/interview-questions/issues/6)
