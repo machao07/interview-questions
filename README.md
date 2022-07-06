@@ -19,12 +19,12 @@
 
 ## 一、Vue
 1. [虚拟DOM](https://github.com/machao07/interview-questions/issues/1)
-2. [Vue项目添加TS](https://github.com/machao07/interview-questions/issues/7)
+2. [Vue 项目添加TS](https://github.com/machao07/interview-questions/issues/7)
 3. [Vue 组件中 data() 为什么必须是函数](https://github.com/machao07/interview-questions/issues/27)
 4. [NextTick() 原理](https://blog.csdn.net/weixin_43924228/article/details/106548886)
-5. [Vue项目自定义 filter 过滤器](https://github.com/machao07/interview-questions/issues/28)
-6. [Vue组件通信汇总](https://github.com/machao07/interview-questions/issues/25)
-7. [Vue中 this.$router.push 传参方式](https://github.com/machao07/interview-questions/issues/22)
+5. [Vue 项目自定义 filter 过滤器](https://github.com/machao07/interview-questions/issues/28)
+6. [Vue 组件通信汇总](https://github.com/machao07/interview-questions/issues/25)
+7. [Vue 中 this.$router.push 传参方式](https://github.com/machao07/interview-questions/issues/22)
 8. [vue.config.js 配置与项目优化](https://github.com/machao07/interview-questions/issues/24)
 9. [Vue 项目预渲染 & SEO](https://github.com/machao07/interview-questions/issues/33)
 10. [Vue3 + Vite + Typescript + Element Plus 创建项目](https://mp.weixin.qq.com/s/yv6KYcx4PTYgrU6I1Ns52g)
