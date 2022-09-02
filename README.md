@@ -46,6 +46,7 @@
 1. [TypeScript基本语法](https://github.com/machao07/interview-questions/issues/3)
 2. [TypeScript基本类型](https://github.com/machao07/interview-questions/issues/10)
 3. [TS 中 type 与 interface 区别](https://github.com/machao07/interview-questions/issues/12)
+4. [TS 泛型约束类型变量](https://github.com/machao07/interview-questions/issues/36)
 
 ## 四、JavaScript & ECMAScript
 1. [JS作用域](https://github.com/machao07/interview-questions/issues/20)
