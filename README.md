@@ -16,6 +16,7 @@
 2. [苏宁易购面试this指针解答](https://blog.csdn.net/weixin_43924228/article/details/90755267)
 3. [Git 命令常用](https://github.com/machao07/interview-questions/issues/29)
 4. [Git Workflow 常用案例](https://github.com/machao07/interview-questions/issues/30)
+4. [npm run 原理](https://github.com/machao07/interview-questions/issues/40)
 
 ## 一、Vue
 1. [虚拟DOM](https://github.com/machao07/interview-questions/issues/1)
