@@ -44,6 +44,7 @@
 - [ReactHooks 中 useEffect 使用](https://github.com/machao07/react-admin/issues/6)
 - [ReactHooks 中 useMemo 使用](https://github.com/machao07/interview-questions/issues/34)
 - [React 路由和菜单的权限控制](https://github.com/machao07/interview-questions/issues/26)
+- [React中setState执行机制](https://github.com/machao07/interview-questions/issues/47)
 
 ## 三、TypeScript系列
 - [TypeScript基本语法](https://github.com/machao07/interview-questions/issues/3)
