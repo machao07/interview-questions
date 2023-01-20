@@ -46,6 +46,7 @@
 - [React 路由和菜单的权限控制](https://github.com/machao07/interview-questions/issues/26)
 - [React中setState执行机制](https://github.com/machao07/interview-questions/issues/47)
 - [React中类组件和函数组件区别](https://github.com/machao07/interview-questions/issues/48)
+- [React中setState执行机制](https://github.com/machao07/interview-questions/issues/49)
 
 ## 三、TypeScript系列
 - [TypeScript基本语法](https://github.com/machao07/interview-questions/issues/3)
