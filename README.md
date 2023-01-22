@@ -46,7 +46,6 @@
 - [React 路由和菜单的权限控制](https://github.com/machao07/interview-questions/issues/26)
 - [React 中 setState 执行机制](https://github.com/machao07/interview-questions/issues/47)
 - [React 中类组件和函数组件区别](https://github.com/machao07/interview-questions/issues/48)
-- [React 中setState执行机制](https://github.com/machao07/interview-questions/issues/49)
 - [React 的事件机制](https://github.com/machao07/interview-questions/issues/50)
 - [React 事件绑定的方式有哪些](https://github.com/machao07/interview-questions/issues/51)
 
