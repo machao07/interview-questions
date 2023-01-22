@@ -44,7 +44,7 @@
 - [ReactHooks 中 useEffect 使用](https://github.com/machao07/react-admin/issues/6)
 - [ReactHooks 中 useMemo 使用](https://github.com/machao07/interview-questions/issues/34)
 - [React 路由和菜单的权限控制](https://github.com/machao07/interview-questions/issues/26)
-- [React 中setState执行机制](https://github.com/machao07/interview-questions/issues/47)
+- [React 中 setState 执行机制](https://github.com/machao07/interview-questions/issues/47)
 - [React 中类组件和函数组件区别](https://github.com/machao07/interview-questions/issues/48)
 - [React 中setState执行机制](https://github.com/machao07/interview-questions/issues/49)
 - [React 的事件机制](https://github.com/machao07/interview-questions/issues/50)
