@@ -48,6 +48,7 @@
 - [React中类组件和函数组件区别](https://github.com/machao07/interview-questions/issues/48)
 - [React中setState执行机制](https://github.com/machao07/interview-questions/issues/49)
 - [React的事件机制](https://github.com/machao07/interview-questions/issues/50)
+- [React事件绑定的方式有哪些](https://github.com/machao07/interview-questions/issues/51)
 
 ## 三、TypeScript系列
 - [TypeScript基本语法](https://github.com/machao07/interview-questions/issues/3)
