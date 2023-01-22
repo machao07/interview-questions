@@ -29,8 +29,8 @@
 - [vue.config.js 配置与项目优化](https://github.com/machao07/interview-questions/issues/24)
 - [Vue 项目预渲染 & SEO](https://github.com/machao07/interview-questions/issues/33)
 - [Vue3 + Vite + Typescript + Element Plus 创建项目](https://mp.weixin.qq.com/s/yv6KYcx4PTYgrU6I1Ns52g)
-- [Vue3.0 为什么用proxy替代defineProperty](https://github.com/machao07/interview-questions/issues/41)
-- [vue3.0 中Treeshaking特性](https://github.com/machao07/interview-questions/issues/42)
+- [Vue3.0 为什么用 proxy 替代 defineProperty](https://github.com/machao07/interview-questions/issues/41)
+- [vue3.0 中 Treeshaking 特性](https://github.com/machao07/interview-questions/issues/42)
 - [vue3.0 的性能提升体现](https://github.com/machao07/interview-questions/issues/43)
 
 ## 二、React系列
