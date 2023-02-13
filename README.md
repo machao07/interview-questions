@@ -73,6 +73,7 @@
 - [原型与原型链](https://github.com/machao07/interview-questions/issues/35)
 - [数字精度丢失问题](https://github.com/machao07/interview-questions/issues/45)
 - [递归 & 尾递归](https://github.com/machao07/interview-questions/issues/46)
+- [数组常用方法](https://github.com/machao07/interview-questions/issues/55)
 
 ## 五、HTML & CSS
 - [圣杯布局、双飞翼布局](https://github.com/machao07/interview-questions/issues/6)
