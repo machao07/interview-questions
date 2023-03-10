@@ -82,6 +82,7 @@
 - [script 标签中的 defer 和 async 异同点](https://github.com/machao07/interview-questions/issues/8)
 - [BFC 与 IFC 的产生和解决方法](https://github.com/machao07/interview-questions/issues/14)
 - [浏览器渲染页面过程](https://github.com/machao07/interview-questions/issues/16)
+- [地址栏输入 URL 敲下回车](https://github.com/machao07/interview-questions/issues/56)
 
 ## 六、网络协议
 - [Http 协议相关面题](https://github.com/machao07/interview-questions/issues/15)
