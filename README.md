@@ -60,6 +60,8 @@
 - [TS 泛型约束类型变量](https://github.com/machao07/interview-questions/issues/36)
 
 ## 四、JavaScript & ECMAScript 系列
+- [谈谈 this 对象的理解](https://github.com/machao07/interview-questions/issues/54)
+- [new 操作符具体干了什么](https://github.com/machao07/interview-questions/issues/58)
 - [JS作用域](https://github.com/machao07/interview-questions/issues/20)
 - [JS执行流程](https://github.com/machao07/interview-questions/issues/21)
 - [ES6 中的 class](https://github.com/machao07/interview-questions/issues/32)
@@ -67,7 +69,6 @@
 - [This 指针面试题](https://github.com/machao07/interview-questions/issues/9)
 - [ForEach 面题及 this 指针](https://github.com/machao07/interview-questions/issues/11)
 - [改变 this 指针](https://github.com/machao07/interview-questions/issues/18)
-- [谈谈this对象的理解](https://github.com/machao07/interview-questions/issues/54)
 - [数组去重方法对比](https://github.com/machao07/interview-questions/issues/13)
 - [函数 arguments、rest、箭头函数](https://github.com/machao07/interview-questions/issues/19)
 - [判断数据类型方法总览](https://github.com/machao07/interview-questions/issues/23)
