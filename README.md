@@ -22,6 +22,7 @@
 - [Vite 与 Webpack](https://github.com/machao07/interview-questions/issues/59)
 - [设计模式 & 应用场景](https://github.com/machao07/interview-questions/issues/60)
 - [工厂模式](https://github.com/machao07/interview-questions/issues/62)
+- [代理模式](https://github.com/machao07/interview-questions/issues/64)
 - [Promise & async/await 场景需求题](https://github.com/machao07/interview-questions/issues/61)
 
 ## 一、Vue 系列
