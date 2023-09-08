@@ -57,6 +57,7 @@
 - [React 的事件机制](https://github.com/machao07/interview-questions/issues/50)
 - [React 事件绑定的方式有哪些](https://github.com/machao07/interview-questions/issues/51)
 - [React 性能优化](https://github.com/machao07/interview-questions/issues/52)
+- [React17、18版本区别](https://github.com/machao07/interview-questions/issues/66)
 - [React Fiber架构的理解](https://github.com/machao07/interview-questions/issues/57)
 
 ## 三、TS 系列
