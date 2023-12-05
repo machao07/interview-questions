@@ -68,6 +68,7 @@
 - [TS 类型系统](https://github.com/machao07/interview-questions/issues/69)
 - [TS 中 type 与 interface 区别](https://github.com/machao07/interview-questions/issues/12)
 - [TS 泛型约束类型变量](https://github.com/machao07/interview-questions/issues/36)
+- [TS 中 declare、namespace、.d.ts ](https://github.com/machao07/interview-questions/issues/70)
 
 ## 四、JavaScript & ECMAScript 系列
 - [谈谈 this 对象的理解](https://github.com/machao07/interview-questions/issues/54)
