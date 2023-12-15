@@ -63,7 +63,7 @@
 ## 三、TS 系列
 - [TypeScript基本语法](https://github.com/machao07/interview-questions/issues/3)
 - [TS 基本类型](https://github.com/machao07/interview-questions/issues/10)
-- [TS 特殊类型](https://github.com/machao07/interview-questions/issues/67)
+- [TS 特殊类型（never、void...）](https://github.com/machao07/interview-questions/issues/67)
 - [TS 操作符（keyof、pick...）](https://github.com/machao07/interview-questions/issues/68)
 - [TS 类型系统](https://github.com/machao07/interview-questions/issues/69)
 - [TS 中 type 与 interface 区别](https://github.com/machao07/interview-questions/issues/12)
