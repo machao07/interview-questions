@@ -23,7 +23,7 @@
 - [Promise & async/await 场景需求题](https://github.com/machao07/interview-questions/issues/61)
 - [前端工程化](https://github.com/machao07/interview-questions/issues/71)
 
-### 设计模式
+> 设计模式
 - [设计模式 & 应用场景](https://github.com/machao07/interview-questions/issues/60)
 - [工厂模式](https://github.com/machao07/interview-questions/issues/62)
 - [代理模式](https://github.com/machao07/interview-questions/issues/64)
