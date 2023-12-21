@@ -96,6 +96,9 @@
 - [数组常用方法](https://github.com/machao07/interview-questions/issues/55)
 - [JS继承](https://github.com/machao07/interview-questions/issues/63)
 
+> 函数类型
+- [高阶函数](https://github.com/machao07/interview-questions/issues/73)
+
 ## 五、HTML & CSS
 - [圣杯布局、双飞翼布局](https://github.com/machao07/interview-questions/issues/6)
 - [两栏布局（左侧固定 + 右侧自适应布局）](https://github.com/machao07/interview-questions/issues/17)
