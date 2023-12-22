@@ -98,6 +98,7 @@
 
 > 函数类型
 - [高阶函数](https://github.com/machao07/interview-questions/issues/73)
+- [级联函数](https://github.com/machao07/interview-questions/issues/74)
 
 ## 五、HTML & CSS
 - [圣杯布局、双飞翼布局](https://github.com/machao07/interview-questions/issues/6)
