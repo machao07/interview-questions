@@ -46,6 +46,7 @@
 
 > vue源码
 - [h()函数](https://github.com/machao07/interview-questions/issues/72)
+- [Proxy、Object.defineProperty()](https://github.com/machao07/interview-questions/issues/75)
 
 
 ## 二、React 系列
