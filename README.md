@@ -69,6 +69,7 @@
 - [React 性能优化](https://github.com/machao07/interview-questions/issues/52)
 - [React17、18版本区别](https://github.com/machao07/interview-questions/issues/66)
 - [React Fiber架构的理解](https://github.com/machao07/interview-questions/issues/57)
+- [React Hooks为什么不能使用在if和循环语句](https://github.com/machao07/interview-questions/issues/77)
 
 ## 三、TS 系列
 - [TypeScript基本语法](https://github.com/machao07/interview-questions/issues/3)
